@@ -5,4 +5,4 @@
 ---
 📝Studying📝
 <br><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></br>
-<br><img src="https://img.shields.io/badge/HTML5-0431B4?style=flat-square&logo=HTML5&logoColor=white"></br>
+<p><img src="https://img.shields.io/badge/HTML5-0431B4?style=flat-square&logo=HTML5&logoColor=white"></p>
