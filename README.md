@@ -3,5 +3,5 @@
 # **I'm Baesungyou!** 😉
 ## *I'm a Hallym university student studying development in South Korea.* 🧑‍🎓
 ---
-## My dream
-- [] test
+📝Studying📝
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
