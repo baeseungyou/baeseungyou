@@ -4,4 +4,4 @@
 ## *I'm a Hallym university student studying development in South Korea.* 🧑‍🎓
 ---
 📝Studying📝
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<br><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></br>
