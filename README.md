@@ -18,5 +18,5 @@
 <p>Finally... I want to be a</p> <img src="https://img.shields.io/badge/Game Develope-E60012?style=flat-square&Game Develope&logoColor=white">
 
  <img src="http://mazandi.herokuapp.com/api?handle={20225169}&theme=warm"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baeseungyou&layout=compact)](https://github.com/baeseungyou/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
