@@ -31,5 +31,5 @@
 
  ---
  ### My Project 😎
-- 서울시 인구 이동 데이터 분석 (23년도 1학기)
+- 파이썬과 QGIS를 이용해 서울시 인구 이동 데이터 분석 (23년도 1학기)
   <a href="https://github.com/baeseungyou/first-repos/tree/main/20225169%20%EB%B0%B0%EC%8A%B9%EC%9C%A0_%EA%B8%B0%EB%A7%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://img.shields.io/badge/Seungyou-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
