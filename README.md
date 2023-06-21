@@ -2,6 +2,7 @@
 
 # **I'm Baesungyou!** 😉
 ## *I'm a Hallym university student studying development in South Korea.* 🧑‍🎓
+<a href="https://github.com/baeseungyou"><img src="https://img.shields.io/badge/Seungyou-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 <br>📝**Studying**📝</br> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
@@ -18,5 +19,4 @@
 <p>Finally... I want to be a</p> <img src="https://img.shields.io/badge/Game Develope-E60012?style=flat-square&Game Develope&logoColor=white">
 
  <img src="http://mazandi.herokuapp.com/api?handle=20225169&theme=dark"/>
-
 
