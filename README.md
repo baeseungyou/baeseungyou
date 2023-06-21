@@ -16,6 +16,6 @@
 <img src="https://img.shields.io/badge/NAVER-03C85A?style=flat-square&logo=NAVER&logoColor=white">
 <img src="https://img.shields.io/badge/Battle.net-148EFF?style=flat-square&logo=Battle.net&logoColor=white">
 <p>Finally... I want to be a</p> <img src="https://img.shields.io/badge/Game Develope-E60012?style=flat-square&Game Develope&logoColor=white">
----
+----
  <img src="http://mazandi.herokuapp.com/api?handle={20225169}&theme=warm"/>
 
