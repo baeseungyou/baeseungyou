@@ -4,8 +4,8 @@
 ## 💻*I'm a Hallym university student studying development in South Korea.* 🧑‍🎓
 <a href="https://github.com/baeseungyou"><img src="https://img.shields.io/badge/Seungyou-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <a href="https://www.notion.so/hallymuniversity/Hallym-University-b99e1f3a6b984cc5bf7c905ee7abfd7a?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-<p>*Contact Me*</p>
-<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<p> *Contact Me* </p>
+<a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 <br>📝**Studying**📝</br> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
