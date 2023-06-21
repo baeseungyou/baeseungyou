@@ -17,6 +17,6 @@
 <img src="https://img.shields.io/badge/Battle.net-148EFF?style=flat-square&logo=Battle.net&logoColor=white">
 <p>Finally... I want to be a</p> <img src="https://img.shields.io/badge/Game Develope-E60012?style=flat-square&Game Develope&logoColor=white">
 
- <img src="http://mazandi.herokuapp.com/api?handle={20225169}&theme=warm"/>
+ <img src="http://mazandi.herokuapp.com/api?handle={20225169}&theme=dark"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
