@@ -14,3 +14,4 @@
 <br> 💼My dream Company💼 </br>
 <img src="https://img.shields.io/badge/KAKAO-FFCD00?style=flat-square&logo=KAKAO&logoColor=white">
 <img src="https://img.shields.io/badge/NAVER-03C85A?style=flat-square&logo=NAVER&logoColor=white">
+<img src="https://img.shields.io/badge/Battle.net-148EFF?style=flat-square&logo=Battle.net&logoColor=white">
