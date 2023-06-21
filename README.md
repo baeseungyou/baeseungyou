@@ -37,3 +37,6 @@
   <a href="https://github.com/baeseungyou/first-repos/tree/main/20225169%20%EB%B0%B0%EC%8A%B9%EC%9C%A0_%EA%B8%B0%EB%A7%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8"><img src="https://img.shields.io/badge/기말프로젝트-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 - 씨애랑 SW 전시회 (22년도 2학기)
 <a href="https://github.com/baeseungyou/sw22"><img src="https://img.shields.io/badge/씨애랑전시회-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+
+### My Goal
+
