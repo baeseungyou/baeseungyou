@@ -3,7 +3,7 @@
 # **I'm Baesungyou!** 😉
 ## *I'm a Hallym university student studying development in South Korea.* 🧑‍🎓
 
-<br>📝Studying📝</br> 
+<br>📝**Studying**📝</br> 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
 
-<br> 💼My dream Company💼 </br>
+<br> 💼**My dream Company**💼 </br>
 <img src="https://img.shields.io/badge/KAKAO-FFCD00?style=flat-square&logo=KAKAO&logoColor=white">
 <img src="https://img.shields.io/badge/NAVER-03C85A?style=flat-square&logo=NAVER&logoColor=white">
 <img src="https://img.shields.io/badge/Battle.net-148EFF?style=flat-square&logo=Battle.net&logoColor=white">
