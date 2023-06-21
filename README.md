@@ -5,7 +5,7 @@
 ---
 <br>📝Studying📝</br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-FF8000?style=flat-square&logo=CSS&logoColor=white">
+<img src="https://img.shields.io/badge/Java script-FF8000?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-0431B4?style=flat-square&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/C-045FB4?style=flat-square&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white">
