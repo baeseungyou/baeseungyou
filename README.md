@@ -17,7 +17,7 @@
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=Unreal Engine&logoColor=white">
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white">
-<img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=QGIS&logoColor=white"></p>
+<img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"></p>
 
 
 <br> 💼**My dream Company**💼 </br>
