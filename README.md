@@ -38,6 +38,7 @@
 - 씨애랑 SW 30주년 전시회 (22년도 2학기)
 <a href="https://github.com/baeseungyou/sw22"><img src="https://img.shields.io/badge/씨애랑전시회-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 - Unity를 이용하여 게임 캐릭터 만들기
+- 신입생들을 위해 노션으로 학교 정보 정리하기 (개인) <a href="https://www.notion.so/hallymuniversity/Hallym-University-b99e1f3a6b984cc5bf7c905ee7abfd7a?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ### My Goal
 - 더 많은 프로젝트를 하기
