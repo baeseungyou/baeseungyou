@@ -38,7 +38,7 @@
 - 씨애랑 SW 30주년 전시회 (22년도 2학기)
 <a href="https://github.com/baeseungyou/sw22"><img src="https://img.shields.io/badge/씨애랑전시회-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 - Unity를 이용하여 게임 캐릭터 만들기
-<img src="https://ibb.co/cgLwBZK" width="100%" height="100%">
+<img src="https://ibb.co/cgLwBZK" width="20%" height="10%">
 ### My Goal
 - 더 많은 프로젝트를 하기
 - 백준 문제 많이 풀기
