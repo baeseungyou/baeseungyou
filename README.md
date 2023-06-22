@@ -1,4 +1,4 @@
-![image](https://github.com/baeseungyou/baeseungyou/assets/101550023/81470dd0-33a6-49dc-960b-5ac2834e4fab)![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Hello%20World!&fontSize=100)
+[header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Hello%20World!&fontSize=100)
 
 # **I'm Baesungyou!** 🌠
 ### 💻*I'm a Hallym university sophomore(2학년) student studying development in South Korea.* 🧑‍🎓
