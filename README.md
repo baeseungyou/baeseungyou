@@ -3,10 +3,10 @@
 # **Introducing myself** 🌠
 ### 💻*I'm a Hallym university sophomore(2학년) student studying development in South Korea.* 🧑‍🎓
 
-*Contact Me*
+*Contact Me* <p>
 <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://github.com/baeseungyou"><img src="https://img.shields.io/badge/Seungyou-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<p>📝**Studying**📝</p> 
+<a href="https://github.com/baeseungyou"><img src="https://img.shields.io/badge/Seungyou-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> </p>
+<br>📝**Studying**📝</br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
