@@ -7,7 +7,7 @@ I'm major in Contact IT and Big Data.
 ### *Contact Me* <p>
 <a href="https://mail.google.com/mail"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 <a href="https://github.com/baeseungyou"><img src="https://img.shields.io/badge/Seungyou-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> </p>
-<br>📝**Studying**📝</br>
+### <br>📝**Studying**📝</br>
 <p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Java script-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -22,7 +22,7 @@ I'm major in Contact IT and Big Data.
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"> </p>
 
 
-<br> 💼**My dream Company**💼 </br>
+### <br> 💼**My dream Company**💼 </br>
 <img src="https://img.shields.io/badge/KAKAO-FFCD00?style=flat-square&logo=KAKAO&logoColor=white">
 <img src="https://img.shields.io/badge/NAVER-03C85A?style=flat-square&logo=NAVER&logoColor=white">
 <img src="https://img.shields.io/badge/Battle.net-148EFF?style=flat-square&logo=Battle.net&logoColor=white">
