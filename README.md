@@ -2,7 +2,7 @@
 
 # **Introducing myself** 🌠
 ### 💻*I'm a Hallym university sophomore(2학년) student studying development in South Korea.* 🧑‍🎓
-I'm major in Contact IT and Big Data.
+<p>I'm major in Contact IT and Big Data. </p>
 I'm very interested in game development Among them, interested in developing console games and PC games.
 When I was young, I ended service now, but I played Nexon's Everplanet game impressively. My final goal is to make a similar game, if not the same as the game.
 
