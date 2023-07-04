@@ -48,3 +48,6 @@
  <img src="http://mazandi.herokuapp.com/api?handle=20225169&theme=dark"/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baeseungyou&layout=compact)](https://github.com/baeseungyou/github-readme-stats)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://github.com/baeseungyou})](https://solved.ac/{https://github.com/baeseungyou})
