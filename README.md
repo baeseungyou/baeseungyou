@@ -46,5 +46,4 @@
 - C, Python, Java 등 프로그래밍 언어 복습하기
 
  <img src="http://mazandi.herokuapp.com/api?handle=20225169&theme=dark"/>
- [![Solved.ac
-profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://github.com/baeseungyou})](https://solved.ac/{https://github.com/baeseungyou})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=baeseungyou)](https://solved.ac/baeseungyou)<br/>
