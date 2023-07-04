@@ -31,8 +31,6 @@
 <img src="https://img.shields.io/badge/Riot Games-D32936?style=flat-square&logo=Riot Games&logoColor=white"> </p>
 <p>Finally... I want to be a</p> <img src="https://img.shields.io/badge/Game Develope-E60012?style=flat-square&Game Develope&logoColor=white">
 
- <img src="http://mazandi.herokuapp.com/api?handle=20225169&theme=dark"/>
-
  ---
  ### My Work 😎
 - 파이썬과 QGIS를 이용해 서울시 인구 이동 데이터 분석 (23년도 1학기)
@@ -46,3 +44,7 @@
 - 더 많은 프로젝트를 하기
 - 백준 문제 많이 풀기
 - C, Python, Java 등 프로그래밍 언어 복습하기
+
+ <img src="http://mazandi.herokuapp.com/api?handle=20225169&theme=dark"/>
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://github.com/baeseungyou})](https://solved.ac/{https://github.com/baeseungyou})
