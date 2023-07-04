@@ -50,4 +50,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baeseungyou&layout=compact)](https://github.com/baeseungyou/github-readme-stats)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Baeseungyou)](https://solved.ac/baeseungyou)
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=Baeseungyou)](https://solved.ac/20225169)
