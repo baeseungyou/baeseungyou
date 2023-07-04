@@ -46,4 +46,4 @@
 - C, Python, Java 등 프로그래밍 언어 복습하기
 
  <img src="http://mazandi.herokuapp.com/api?handle=20225169&theme=dark"/>
- [![Top Langs]<https://github-readme-stats.vercel.app/api/top-langs/?username=baeseungyou&layout=compact>]<https://github.com/baeseungyou/github-readme-stats>
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baeseungyou&layout=compact)](https://github.com/baeseungyou/github-readme-stats)
