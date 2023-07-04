@@ -40,7 +40,7 @@
 - Unity를 이용하여 게임 캐릭터 만들기
 - 신입생들을 위해 노션으로 학교 정보 정리하기 (개인) <a href="https://www.notion.so/hallymuniversity/Hallym-University-b99e1f3a6b984cc5bf7c905ee7abfd7a?pvs=4"><img src="https://img.shields.io/badge/개인활동-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 
-### My Goal
+### My Goal 🥰
 - 더 많은 프로젝트를 하기
 - 백준 문제 많이 풀기
 - C, Python, Java 등 프로그래밍 언어 복습하기
