@@ -44,8 +44,6 @@
 - 더 많은 프로젝트를 하기
 - 백준 문제 많이 풀기
 - C, Python, Java 등 프로그래밍 언어 복습하기
-
- <img src="http://mazandi.herokuapp.com/api?handle=baeseungyou&theme=dark"/>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baeseungyou&layout=compact)](https://github.com/baeseungyou/github-readme-stats)
 
