@@ -47,4 +47,4 @@
 
  <img src="http://mazandi.herokuapp.com/api?handle=20225169&theme=dark"/>
  [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://github.com/baeseungyou})](https://solved.ac/{https://github.com/baeseungyou})
+profile](http://mazassumnida.wtf/api/v2/generate_badge?boj={https://github.com/baeseungyou})](https://solved.ac/{https://github.com/baeseungyou})
