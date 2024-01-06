@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Hello%20World!&fontSize=100)
 
 # **Introducing myself** 🌠
-### 💻*I'm a Hallym university sophomore(2학년) student studying development in South Korea.* 🧑‍🎓
+### 💻*I'm a Hallym university student studying development in South Korea.* 🧑‍🎓
 <p>I'm major in Contact IT and Big Data. </p>
-<p>I'm very interested in game development Among them, interested in developing console games and PC games.</p>
+<p>I'm very interested in game development Among them, interested in developing Console games and PC games.</p>
 <p>When I was young, I ended service now, but I played Nexon's Everplanet game impressively. My final goal is to make a similar game, if not the same as the game. </p>
 
 ### *Contact Me* <p>
