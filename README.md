@@ -4,3 +4,5 @@
 ## *한림대학교에서 콘텐츠IT를 전공 중입니다.* 🧑‍🎓
 ---
 
+### My Skill ###
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat-square&logo=Android&logoColor=white"/>
