@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&&color=random&height=300&section=header&text=Hello%20World&fontSize=85)
+![header](https://capsule-render.vercel.app/api?type=venom&&color=random&height=300&section=header&text=Hello%20World&fontColor=d6ace6&fontSize=85)
 
 # **I'm Baesungyou!** 😉
 ## ## *I'm a Hallym university student studying development in South Korea.* 🧑‍🎓
