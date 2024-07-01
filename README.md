@@ -2,6 +2,7 @@
 
 # **I'm Baesungyou!** 😉
 ## *한림대학교에서 콘텐츠IT와 빅데이터를 전공 중입니다.* 🧑‍🎓
+#### 게임 개발자를 목표로 공부 중입니다.
 ---
 
 ### My Skill
@@ -9,7 +10,5 @@
 
 ![baeseungyou's Github stats](https://github-readme-stats.vercel.app/api?username=baeseungyou&include_all_commits=true&show_icons=true&theme=radical&count_private=true)
 
-
-... 천천히 정비 중입니다
 
 ### My Project
