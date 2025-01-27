@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&&color=gradient&height=300&section=header&text=Hello%20World&fontColor=00000&stroke=d6ace6&fontSize=85)
 
+<div align="center">
 
-
+[![baeseungyou's Github stats](https://github-readme-stats.vercel.app/api?username=baeseungyou&include_all_commits=true&show_icons=true&theme=radical&count_private=true) ﻿﻿ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=20225169)](https://solved.ac/20225169/)
+  
 <h2 align="left">Hi 👋! My name is Bae Seungyou and I'm a university student who dreams of becoming a game developer from South Korea</h2>
 
 ###
