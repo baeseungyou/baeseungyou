@@ -6,7 +6,7 @@
   
 <h2 align="left">Hi 👋! My name is Bae Seungyou and I'm a university student who dreams of becoming a game developer from South Korea</h2>
 
-💫 I'm interested in. . . 💫
+🌟 I'm interested in. . . 🌟
 ###
 
 <div align="left">
