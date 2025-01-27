@@ -86,6 +86,8 @@
 ###
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&color=44C0F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+My+Project+%F0%9F%92%AB)](https://git.io/typing-svg)
 
+<div align="left">
 <a herf= "https://hallymuniversity.notion.site/b99e1f3a6b984cc5bf7c905ee7abfd7a?v=f0af3e392de649089cd19538d4d0554a" target="_blank">
   <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 </a>
+</div>
