@@ -80,3 +80,4 @@
 </div>
 
 ###
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&pause=1000&color=44C0F7&background=FFFFFF00&center=true&vCenter=true&width=435&lines=%F0%9F%92%AB+My+Project+%F0%9F%92%AB)](https://git.io/typing-svg)
