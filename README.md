@@ -88,4 +88,11 @@
 
 <a href="https://hallymuniversity.notion.site/b99e1f3a6b984cc5bf7c905ee7abfd7a?v=f0af3e392de649089cd19538d4d0554a" target="_blank">
     <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
-</a> (신입생을 위한 길잡이 가이드) 
+</a> (신입생을 위한 길잡이 가이드)
+
+<br>
+ <a href="https://github.com/baeseungyou/first-repos/tree/main/20225169%20%EB%B0%B0%EC%8A%B9%EC%9C%A0_%EA%B8%B0%EB%A7%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" target="_blank">
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a> (파이썬으로 데이터 분석)
+</br> 
+   
