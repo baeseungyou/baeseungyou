@@ -88,4 +88,4 @@
 
 <a href="https://hallymuniversity.notion.site/b99e1f3a6b984cc5bf7c905ee7abfd7a?v=f0af3e392de649089cd19538d4d0554a" target="_blank">
     <img src="https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
+</a> (신입생을 위한 길잡이 가이드) 
