@@ -95,4 +95,15 @@
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a> (파이썬으로 데이터 분석)
 </br> 
-   
+
+<br>
+  <a href="https://github.com/baeseungyou/VR-AR-class" target="_blank">
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a> (VR/AR수업)
+</br>
+
+<br>
+ <a href="https://github.com/baeseungyou/sw22" target="_blank">
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a> (씨애랑 SW 22 전시회)
+</br>
