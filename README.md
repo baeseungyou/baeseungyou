@@ -31,6 +31,9 @@
   <img src="https://skillicons.dev/icons?i=vim" class="tech-icon" alt="vim logo" />
   <img src="https://skillicons.dev/icons?i=unreal" class="tech-icon" alt="unrealengine logo" />
   <img src="https://skillicons.dev/icons?i=unity" class="tech-icon" alt="unity logo" />
+  <img src="https://skillicons.dev/icons?i=react" class="tech-icon" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=ts" class="tech-icon" alt="ts logo" />
+  <img src="https://skillicons.dev/icons?i=spring" class="tech-icon" alt="spring logo" />
 </div>
 📞 Contact Me 📞
 ###
