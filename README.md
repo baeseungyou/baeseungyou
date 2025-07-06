@@ -10,9 +10,7 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=javascript" class="tech-icon" alt="javascript logo" />
-  <img src="https://skillicons.dev/icons?i=html5" class="tech-icon" alt="html5 logo" />
-  <img src="https://skillicons.dev/icons?i=css3" class="tech-icon" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=js,html,css"/>
   <img src="https://skillicons.dev/icons?i=python" class="tech-icon" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=anaconda" class="tech-icon" alt="anaconda logo" />
   <img src= "https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
