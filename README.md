@@ -23,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" class="tech-icon" alt="godot logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" class="tech-icon" alt="jupyter logo" />
   <img src="https://skillicons.dev/icons?i=linux" class="tech-icon" alt="linux logo" />
-  <img src="https://skillicons.dev/icons?i=markdown" class="tech-icon" alt="markdown logo" />
+  <img src="https://skillicons.dev/icons?i=md" class="tech-icon" alt="markdown logo" />
   <img src="https://skillicons.dev/icons?i=mysql" class="tech-icon" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=opencv" class="tech-icon" alt="opencv logo" />
   <img src="https://skillicons.dev/icons?i=r" class="tech-icon" alt="r logo" />
