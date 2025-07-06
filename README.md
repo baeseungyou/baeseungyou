@@ -14,9 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html5" class="tech-icon" alt="html5 logo" />
   <img src="https://skillicons.dev/icons?i=css3" class="tech-icon" alt="css3 logo" />
   <img src="https://skillicons.dev/icons?i=python" class="tech-icon" alt="python logo" />
-  <img src="https://skillicons.dev/icons?i=csharp" class="tech-icon" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=anaconda" class="tech-icon" alt="anaconda logo" />
-  <img src="https://skillicons.dev/icons?i=bash" class="tech-icon" alt="bash logo" />
   <img src= "https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" class="tech-icon" alt="blender logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" class="tech-icon" alt="c logo" />
