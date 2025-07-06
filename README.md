@@ -9,14 +9,6 @@
 🌟 I'm interested in. . . 🌟
 ###
 
-<style>
-  .tech-icon {
-    height: 20px;
-    margin-right: 8px;
-    vertical-align: middle;
-  }
-</style>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="tech-icon" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="tech-icon" alt="html5 logo" />
