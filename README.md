@@ -16,6 +16,7 @@
   <img src= "https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
   <img src="https://skillicons.dev/icons?i=c" class="tech-icon" alt="c logo" />
   <img src="https://skillicons.dev/icons?i=cpp" class="tech-icon" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=cs" class="tech-icon" alt="csharp logo" />
   <img src="https://skillicons.dev/icons?i=flutter" class="tech-icon" alt="flutter logo" />
   <img src="https://skillicons.dev/icons?i=git" class="tech-icon" alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github" class="tech-icon" alt="github logo" />
