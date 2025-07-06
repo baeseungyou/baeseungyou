@@ -10,7 +10,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" class="tech-icon" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=javascript" class="tech-icon" alt="javascript logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="tech-icon" alt="html5 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="tech-icon" alt="css3 logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="tech-icon" alt="python logo" />
@@ -26,7 +26,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" class="tech-icon" alt="godot logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" class="tech-icon" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" class="tech-icon" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" class="tech-icon" alt="markdown logo" />
+  <img src="https://skillicons.dev/icons?i=markdown" class="tech-icon" alt="markdown logo" />
   <img src="https://skillicons.dev/icons?i=mysql" class="tech-icon" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=numpy" class="tech-icon" alt="numpy logo" />
   <img src="https://skillicons.dev/icons?i=opencv" class="tech-icon" alt="opencv logo" />
@@ -34,7 +34,6 @@
   <img src="https://skillicons.dev/icons?i=opengl" class="tech-icon" alt="opengl logo" />
   <img src="https://skillicons.dev/icons?i=pandas" class="tech-icon" alt="pandas logo" />
   <img src="https://skillicons.dev/icons?i=r" class="tech-icon" alt="r logo" />
-  <img src="https://skillicons.dev/icons?i=ssh" class="tech-icon" alt="ssh logo" />
   <img src="https://skillicons.dev/icons?i=vscode" class="tech-icon" alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=visualstudio" class="tech-icon" alt="visualstudio logo" />
   <img src="https://skillicons.dev/icons?i=vim" class="tech-icon" alt="vim logo" />
