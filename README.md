@@ -14,14 +14,12 @@
   <img src="https://skillicons.dev/icons?i=python" class="tech-icon" alt="python logo" />
   <img src="https://skillicons.dev/icons?i=anaconda" class="tech-icon" alt="anaconda logo" />
   <img src= "https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" class="tech-icon" alt="blender logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" class="tech-icon" alt="c logo" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" class="tech-icon" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" class="tech-icon" alt="gcc logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" class="tech-icon" alt="git logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" class="tech-icon" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" class="tech-icon" alt="godot logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" class="tech-icon" alt="jupyter logo" />
+  <img src="https://skillicons.dev/icons?i=c" class="tech-icon" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" class="tech-icon" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=flutter" class="tech-icon" alt="flutter logo" />
+  <img src="https://skillicons.dev/icons?i=git" class="tech-icon" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=github" class="tech-icon" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=godot" class="tech-icon" alt="godot logo" />
   <img src="https://skillicons.dev/icons?i=linux" class="tech-icon" alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=md" class="tech-icon" alt="markdown logo" />
   <img src="https://skillicons.dev/icons?i=mysql" class="tech-icon" alt="mysql logo" />
