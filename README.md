@@ -35,8 +35,8 @@
   <img src="https://skillicons.dev/icons?i=ts" class="tech-icon" alt="ts logo" />
   <img src="https://skillicons.dev/icons?i=spring" class="tech-icon" alt="spring logo" />
 </div>
-📞 Contact Me 📞
-###
+
+### 📞 Contact Me 📞 ###
 
 <div align="left">
   <a href="https://discord.com/channels/Null" target="_blank">
