@@ -27,15 +27,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" class="tech-icon" alt="jupyter logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" class="tech-icon" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" class="tech-icon" alt="markdown logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" class="tech-icon" alt="mysql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" class="tech-icon" alt="numpy logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" class="tech-icon" alt="opencv logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openal/openal-original.svg" class="tech-icon" alt="openal logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" class="tech-icon" alt="opengl logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" class="tech-icon" alt="pandas logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" class="tech-icon" alt="r logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" class="tech-icon" alt="ssh logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" class="tech-icon" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" class="tech-icon" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=numpy" class="tech-icon" alt="numpy logo" />
+  <img src="https://skillicons.dev/icons?i=opencv" class="tech-icon" alt="opencv logo" />
+  <img src="https://skillicons.dev/icons?i=openal" class="tech-icon" alt="openal logo" />
+  <img src="https://skillicons.dev/icons?i=opengl" class="tech-icon" alt="opengl logo" />
+  <img src="https://skillicons.dev/icons?i=pandas" class="tech-icon" alt="pandas logo" />
+  <img src="https://skillicons.dev/icons?i=r" class="tech-icon" alt="r logo" />
+  <img src="https://skillicons.dev/icons?i=ssh" class="tech-icon" alt="ssh logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" class="tech-icon" alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=visualstudio" class="tech-icon" alt="visualstudio logo" />
   <img src="https://skillicons.dev/icons?i=vim" class="tech-icon" alt="vim logo" />
   <img src="https://skillicons.dev/icons?i=unreal" class="tech-icon" alt="unrealengine logo" />
