@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" class="tech-icon" alt="ssh logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" class="tech-icon" alt="vscode logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" class="tech-icon" alt="visualstudio logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" class="tech-icon" alt="vim logo" />
+  <img src="https://skillicons.dev/icons?i=vim" class="tech-icon" alt="vim logo" />
   <img src="https://skillicons.dev/icons?i=unreal" class="tech-icon" alt="unrealengine logo" />
   <img src="https://skillicons.dev/icons?i=unity" class="tech-icon" alt="unity logo" />
 </div>
