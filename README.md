@@ -11,12 +11,12 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=javascript" class="tech-icon" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" class="tech-icon" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" class="tech-icon" alt="css3 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" class="tech-icon" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" class="tech-icon" alt="csharp logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" class="tech-icon" alt="anaconda logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" class="tech-icon" alt="bash logo" />
+  <img src="https://skillicons.dev/icons?i=html5" class="tech-icon" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css3" class="tech-icon" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=python" class="tech-icon" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=csharp" class="tech-icon" alt="csharp logo" />
+  <img src="https://skillicons.dev/icons?i=anaconda" class="tech-icon" alt="anaconda logo" />
+  <img src="https://skillicons.dev/icons?i=bash" class="tech-icon" alt="bash logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" class="tech-icon" alt="blender logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" class="tech-icon" alt="c logo" />
   <img src="https://cdn.simpleicons.org/c++/00599C" class="tech-icon" alt="cplusplus logo" />
@@ -29,7 +29,6 @@
   <img src="https://skillicons.dev/icons?i=markdown" class="tech-icon" alt="markdown logo" />
   <img src="https://skillicons.dev/icons?i=mysql" class="tech-icon" alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=opencv" class="tech-icon" alt="opencv logo" />
-  <img src="https://skillicons.dev/icons?i=pandas" class="tech-icon" alt="pandas logo" />
   <img src="https://skillicons.dev/icons?i=r" class="tech-icon" alt="r logo" />
   <img src="https://skillicons.dev/icons?i=vscode" class="tech-icon" alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=visualstudio" class="tech-icon" alt="visualstudio logo" />
