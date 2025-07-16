@@ -79,5 +79,7 @@
 </br>
 
 <br>
- . . . 추가 중
+ <a href="https://github.com/baeseungyou/Programming-for-Image-Processing" target="_blank">
+   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+ </a> (영상처리프로그래밍 이미지 필터)
  </br>
