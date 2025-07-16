@@ -57,7 +57,7 @@
 <br>
  <a href="https://github.com/baeseungyou/first-repos/tree/main/20225169%20%EB%B0%B0%EC%8A%B9%EC%9C%A0_%EA%B8%B0%EB%A7%90%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8" target="_blank">
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a> (파이썬으로 데이터 분석)
+</a> (파이썬으로 핫플이 어딘지 데이터 분석)
 </br> 
 
 <br>
@@ -83,3 +83,9 @@
    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
  </a> (영상처리프로그래밍 이미지 필터)
  </br>
+
+ <br>
+  <a href="https://github.com/baeseungyou/7DAYS" target="_blank">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a> (캡스톤 게임 개발 7Days)
+  </br>
